@@ -159,7 +159,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 #Name_Om_Tawade
 # Step-by-Step Execution
 # 1. Clone this repository
-git clone https://github.com/omtecno/global-demographics-analysis
+git clone https://github.com/omtecno/global-demographics-analysis.git
 
 # 2. Navigate to project directory
 cd PRODIGY_DS_01
